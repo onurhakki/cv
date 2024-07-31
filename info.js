@@ -21,10 +21,11 @@ const information = {
             "enddate":"01.01.2023",
             "department":"Electrical Engineering Department",
             "workplace":"Istanbul Technical University",
-            "accomplishment0":"Built a Python desktop applications (Tkinter) for controlling both Retroactive Adjustments (GDDK) and unlicensed power generation/renumeration (LÜYTOB) processes",
-            "accomplishment1":"Built multiple Python web-based reports (streamlit) including UEVM, KÜPST, imbalance settlement and more",
-            "accomplishment2":"Built a several Python Scripts-Notebooks-Apps and Excel Macros in order to reduce manual efforts",
-            "accomplishment3":"Created a Python library for EPYS and Transparency platform",    
+            "accomplishment0":"Preparing & assessing course materials - Electrical Power Quality & Harmonics | Engineering & Project Management | Electrical Engineering Project etc.",
+            "accomplishment1":"Consulting to M.Sc. and B.Sc. students",
+            "accomplishment2":"Used algorithms: FMEA, K-Means Clustering, MILP, Monte Carlo Simulation, Particle Swarm Optimization (PSO)",
+            "accomplishment3":"Citations (All: 39) | (Scopus: 27)",    
+
         },
         2:{
             "position":"Electricity Market Settlement Assistant Specialist",
@@ -43,10 +44,11 @@ const information = {
             "enddate":"Present",
             "department":"Registration and Settlement Department",
             "workplace":"EXIST (Energy Exchange Istanbul)",
-            "accomplishment0":"Preparing & assessing course materials - Electrical Power Quality & Harmonics | Engineering & Project Management | Electrical Engineering Project etc.",
-            "accomplishment1":"Consulting to M.Sc. and B.Sc. students",
-            "accomplishment2":"Used algorithms: FMEA, K-Means Clustering, MILP, Monte Carlo Simulation, Particle Swarm Optimization (PSO)",
-            "accomplishment3":"Citations (All: 39) | (Scopus: 27)",    
+            "accomplishment0":"Built a Python desktop applications (Tkinter) for controlling both Retroactive Adjustments (GDDK) and unlicensed power generation/renumeration (LÜYTOB) processes",
+            "accomplishment1":"Built multiple Python web-based reports (streamlit) including UEVM, KÜPST, imbalance settlement and more",
+            "accomplishment2":"Built a several Python Scripts-Notebooks-Apps and Excel Macros in order to reduce manual efforts",
+            "accomplishment3":"Created a Python library for EPYS and Transparency platform",    
+
         }
 
 
